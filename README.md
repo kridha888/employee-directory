@@ -101,6 +101,8 @@ npm run build
 - `node_modules/` is not stored on GitHub. Run `npm install` to create it.
 - Never commit passwords, API keys, or `.env` files. Check `employee-api` for database credentials before uploading.
 
+please go to this url repo url "https://github.com/kridha888/employee-directory"
+
 ## Author
 
 [@kridha888](https://github.com/kridha888)
